@@ -1,5 +1,4 @@
-## Tutorial №2
-In this tutorial we will cover Solving problems on FIFO, LIFO, lists.
+# Description of the project
 
 ## Simple project structure
 The main idea about project structure is that you have at least 2 folders include and src. Folders purpose is:
